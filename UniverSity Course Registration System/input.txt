@@ -1,0 +1,31 @@
+1
+CS101
+Introduction to Programming
+4
+50
+
+1
+CS201
+Data Structures
+4
+40
+CS101
+2
+S001
+Aman
+Computer Science
+18
+CS101
+3
+S001
+CS201
+5
+6
+S001
+4
+S001
+CS201
+6
+S001
+7
+8

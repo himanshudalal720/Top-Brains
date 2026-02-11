@@ -1,0 +1,14 @@
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\bin\Debug\net10.0\UniverSity Course Registration System.exe
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\bin\Debug\net10.0\UniverSity Course Registration System.deps.json
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\bin\Debug\net10.0\UniverSity Course Registration System.runtimeconfig.json
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\bin\Debug\net10.0\UniverSity Course Registration System.dll
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\bin\Debug\net10.0\UniverSity Course Registration System.pdb
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.AssemblyInfoInputs.cache
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.AssemblyInfo.cs
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.dll
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\refint\UniverSity Course Registration System.dll
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.pdb
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\UniverSity Course Registration System.genruntimeconfig.cache
+C:\Users\Aman Agarwal\Desktop\dotnet\UniverSity Course Registration System\obj\Debug\net10.0\ref\UniverSity Course Registration System.dll
